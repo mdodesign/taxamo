@@ -9,3 +9,5 @@ https://ec.europa.eu/taxation_customs/business/vat/ioss_en
 Taxamo Assure is a new service from Vertex, it allows you to Pay As You Go. You integrate the solution into your own shopping cart, when the customer places an order you pay Taxamo the VAT and then pay £2.00 per delivery. Most other companies charge fixed monthly rates + the VAT.
 
 They have released an API to integrate into your shopping cart software and I have integrated it into ZenCart but am releasing my test code here for others who are looking into it.
+
+You can find out more about the Taxamo solution and API documentation here: https://www.taxamo.com/taxamo-assure-rmg

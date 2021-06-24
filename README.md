@@ -11,7 +11,7 @@ https://ec.europa.eu/taxation_customs/business/vat/ioss_en
 When a customer places an order with a shop outside the EU that is being delivered to an address in the EU the shop must pay the EU VAT for that order. Some points on this:
 
 * The IOSS scheme replaces the old €22 low value item limit - that no longer applies
-* This applies to the shop if it is VAT registered in his home country or not - so if you aren't VAT registered in the UK you still need to pay the EU VAT
+* This applies to the shop if it is VAT registered in their home country or not - so if you aren't VAT registered in the UK you still need to pay the EU VAT
 * The customer is to be charged the VAT that applies to the delivery address. If the shop is registerd in the UK, the billing address is the USA and the delivery address is Spain the shop must pay the VAT for Spain.
 * IOSS can only be used on orders €150 or less - above that is a lot more complicated!
 * The €150 limit is the net (before VAT) price of the goods - shipping charges are not included in this. The net price is based on the delivery country VAT rate
